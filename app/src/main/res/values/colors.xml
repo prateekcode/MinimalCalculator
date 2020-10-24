@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#DB3A3A</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <!-- Light Mode -->
+    <color name="linearLayout1Light">#DAD0D0</color>
+    <color name="editText1Light">#534F4F</color>
+    <color name="clickButtonLight">#DB3A3A</color>
+    <color name="commonLight">#000000</color>
+
+    <!-- Dark Mode -->
+    <color name="linearLayout2Dark">#231F20</color>
+    <color name="editText1Dark">#534F4F</color>
+    <color name="clickButtonDark">#DB3A3A</color>
+    <color name="commonDark">#000000</color>
+
+
+</resources>
